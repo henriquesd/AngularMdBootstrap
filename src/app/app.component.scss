@@ -1,0 +1,70 @@
+h4 {
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.btn-floating {
+    padding: 5px 10px;
+    background: #fff;
+    margin: 10px 3px;
+}
+
+section .contact {
+    background-color: #103f6d;
+    height: 100%;
+}
+
+.contact  {
+    color: #fff;
+}
+
+.section .contact-icons {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.section .contact-icons li {
+    margin-bottom: 2.2rem;
+}
+
+section .contact .contact-icons li p {
+    padding-top: .5rem;
+    text-align: left;
+}
+
+section .contact .contact-icons li i {
+    float: left;
+    clear: both;
+    margin-right: 1rem;
+    padding-top: 11px;
+}
+
+.icons-sm {
+    padding: .5rem;
+    margin: .5rem;
+    font-size: 1.2rem;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.contactForm{
+    background-color: #fff;
+    color: black;
+}
+
+.card .card-body h3 {
+    padding: .7rem;
+}
+
+.btSend {
+    color: #fff;
+}
